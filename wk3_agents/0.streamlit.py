@@ -7,7 +7,7 @@ Brief Streamlit tutorial app.
 
 Run:
     uv pip install streamlit pandas
-    streamlit run streamlit_tutorial.py
+    streamlit run streamlit_tutorial.py 
 """
 
 
